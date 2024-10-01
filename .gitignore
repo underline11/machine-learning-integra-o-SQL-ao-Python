@@ -1,0 +1,34 @@
+# Ignorar ambientes virtuais
+env/
+venv/
+*.env
+
+# Ignorar arquivos de configuração do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos de banco de dados SQLite
+*.db
+*.sqlite3
+meu_banco_sqlite.db
+
+# Ignorar arquivos temporários e de cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de saída do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de backup
+*~
+*.bak
+
+# Ignorar outros arquivos desnecessários
+*.sqlite
