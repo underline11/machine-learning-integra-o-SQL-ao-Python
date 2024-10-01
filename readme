@@ -1,0 +1,20 @@
+# Integração de MySQL e Python com SQLite
+
+Este projeto demonstra como integrar MySQL e Python utilizando a biblioteca SQLite do pacote Anaconda. O objetivo é criar um sistema simples de gerenciamento de dados que permite inserir, consultar, atualizar e excluir registros em um banco de dados SQLite, enquanto também se conecta a um banco de dados MySQL para sincronização de dados.
+
+## Requisitos
+
+- Python 3.x
+- Anaconda (ou Miniconda)
+- Bibliotecas:
+  - sqlite3
+  - MySQL Connector/Python
+  - pandas
+
+## Instalação
+
+1. Clone este repositório:
+
+   
+   git clone https://github.com/seu-usuario/integracao-mysql-sqlite.git
+   cd integracao-mysql-sqlite
